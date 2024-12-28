@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Header';
-import img6 from '/Users/gurlivkaurbajwa/Desktop/portfolio/src/asserts/img6.png';
+import img6 from '../asserts/img6.png';
 
 function About() {
   return (
